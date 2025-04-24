@@ -1,8 +1,9 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="35">Hi I'm Alirezazand! <br> [![Github](https://img.shields.io/github/followers/Alireza-zand?label=Follow&style=social)](https://github.com/Alireza-Zand)
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="35">Hi I'm Alireza zand <br> [![Github](https://img.shields.io/github/followers/Alireza-zand?label=Follow&style=social)](https://github.com/Alireza-Zand)
 
-👨🏻‍🎓 I am currently a student<br/>
-🧾 I am passionate about web and backend development and providing the best to the customer<br/>
-💼 He is currently a master's student in computer engineering!<br/>
+👨‍🎓 I am alireza
+🧾 I am passionate about web development, front-end and back-end, and delivering the best to my clients<br/>
+💼 I am currently a Bachelor's student in Computer Engineering!<br/>
+🎯 I am on the path to becoming full-stack to provide the best to my customer <br/> 
 
 <!-------------------------------------------------------------------------------------------------------------------------------------->
 <!-- Light Mode -->
